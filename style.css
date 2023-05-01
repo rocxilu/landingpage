@@ -93,6 +93,26 @@ nav{
     flex-wrap: wrap;
 
 }
+#info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 50%;
+    padding: 180px 0;
+
+}
+.texto-info{
+    font-size: medium;
+    color: #5E6472;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 100px;
+
+
+}
 .morales_card{
  display: flex;
  flex-direction: column;
